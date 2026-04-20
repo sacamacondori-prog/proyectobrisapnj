@@ -1,0 +1,36 @@
+body { 
+    background-color: crimson (240, 240, 222);
+}
+.padre { 
+    background-color: sienna;
+    padding: 10px;
+}
+.titulo,.contenido,.pie { 
+    background-color: bisque;
+    margin: 5px;
+    padding: 5px;
+} 
+.foto { 
+    background-color: darkred;
+    width: 45% ;
+    height: 60%;
+    padding: 5px;
+} 
+.img {
+    width: 100%;
+    height: 100%;
+
+}
+.texto {
+    background-color: aquamarine;
+    width: 45% ;
+    height: 60%;
+    padding: 5px;
+
+}
+.contenido {
+    display: flex;
+}
+.titulo,.pie {
+    text-align: center;
+}
